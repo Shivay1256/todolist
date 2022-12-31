@@ -96,7 +96,7 @@ input{
     background-color:rgba(245, 222, 179, 0.699);
     padding: 0 8px;
 }
-@media screen and (max-width:985px) {
+@media screen and (max-width:650px) {
     input{
         width: 150px;
         /* background-color: blueviolet; */
